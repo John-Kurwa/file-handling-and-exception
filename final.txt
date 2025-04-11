@@ -1,0 +1,11 @@
+What is File Handling? 📁
+
+File Handling in Python is the ability to perform various operations on files, like reading from and writing to them. Files are used to store data permanently (like text documents, images, or spreadsheets). Unlike variables, which lose their values when a program ends, files provide persistent storage.
+
+File handling in Python allows you to:
+
+Open files in different modes (e.g., read-only or write mode).
+Read and write data in a variety of formats.
+Close files to free up system resources.
+
+Python’s built-in open() function is at the heart of this process, and learning how to handle files can make your programs more robust, flexible, and useful.
